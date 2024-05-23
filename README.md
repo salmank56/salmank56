@@ -1,16 +1,28 @@
-## Hi there 👋
+## Hi 👋
+### I’m Salman, a website developer passionate about building engaging and functional web experiences.
 
-<!--
-**salmank56/salmank56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Check out some of my work:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 [myportfolio](salmank.vercel.app)
+🏡 [rentadream](https://rent-a-dream.vercel.app/)
+🛍 [shopwithstyle.com](http://shopwithstyle.com)
+📸 [photogallery.com](http://photogallery.com)
+🎵 [musichub.com](http://musichub.com)
+📚 [bookclub.io](http://bookclub.io)
+🌐 [travelblog.com](http://travelblog.com)
+🛠 [devtools.online](http://devtools.online)
+🏠 [realestatefinder.com](http://realestatefinder.com)
+🎮 [gamingcommunity.net](http://gamingcommunity.net)
+🍽 [foodiesparadise.com](http://foodiesparadise.com)
+🗺 [cityexplorer.com](http://cityexplorer.com)
+🎥 [streamingsite.com](http://streamingsite.com))
+📸 [photogallery.com](http://photogallery.com)
+🎵 [musichub.com](http://musichub.com)
+📚 [bookclub.io](http://bookclub.io)
+🌐 [travelblog.com](http://travelblog.com)
+🛠 [devtools.online](http://devtools.online)
+🏠 [realestatefinder.com](http://realestatefinder.com)
+🎮 [gamingcommunity.net](http://gamingcommunity.net)
+🍽 [foodiesparadise.com](http://foodiesparadise.com)
+🗺 [cityexplorer.com](http://cityexplorer.com)
+🎥 [streamingsite.com](http://streamingsite.com)

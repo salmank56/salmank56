@@ -3,28 +3,31 @@
 
 Check out some of my work:
 
-💻 [myportfolio](salmank.vercel.app)
+💻 [myportfolio](https://salmank.vercel.app/)
+
+📚 [Courses_Website](https://global-tuitions-new.vercel.app)
 
 🏡 [rentadream](https://rent-a-dream.vercel.app/)
 
-🛍 [shopwithstyle.com](http://shopwithstyle.com)
+💻 [Animated_portfolio](https://salman-k.vercel.app/)
 
-📸 [photogallery.com](http://photogallery.com)
+💻 [Animated_portfolio2](https://salmank-self.vercel.app/)
 
-🎵 [musichub.com](http://musichub.com)
 
-📚 [bookclub.io](http://bookclub.io)
+[//]: # 🎵 [musichub.com](http://musichub.com)
 
-🌐 [travelblog.com](http://travelblog.com)
+[//]: # 📚 [bookclub.io](http://bookclub.io)
 
-🛠 [devtools.online](http://devtools.online)
+[//]: # 🌐 [travelblog.com](http://travelblog.com)
 
-🏠 [realestatefinder.com](http://realestatefinder.com)
+[//]: # 🛠 [devtools.online](http://devtools.online)
 
-🎮 [gamingcommunity.net](http://gamingcommunity.net)
+[//]: # 🏠 [realestatefinder.com](http://realestatefinder.com)
 
-🍽 [foodiesparadise.com](http://foodiesparadise.com)
+[//]: # 🎮 [gamingcommunity.net](http://gamingcommunity.net)
 
-🗺 [cityexplorer.com](http://cityexplorer.com)
+[//]: # 🍽 [foodiesparadise.com](http://foodiesparadise.com)
 
-🎥 [streamingsite.com](http://streamingsite.com)
+[//]: # 🗺 [cityexplorer.com](http://cityexplorer.com)
+
+[//]: # 🎥 [streamingsite.com](http://streamingsite.com)

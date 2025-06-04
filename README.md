@@ -16,7 +16,6 @@
 const salmanKhan = {
     location: "Peshawar, Pakistan 🇵🇰",
     role: "Full Stack Developer",
-    company: "BAVE TECHNOLOGIES",
     experience: "4+ years",
     education: "BSCS @ Islamia College Peshawar",
     

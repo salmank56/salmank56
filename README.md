@@ -93,7 +93,7 @@ const salmanKhan = {
 
 ### **Frontend Technologies**
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,vue,typescript,javascript,html,css,tailwind,bootstrap" alt="Frontend Skills" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,typescript,javascript,html,css,tailwind,bootstrap" alt="Frontend Skills" />
 </p>
 
 ### **Backend Technologies**
@@ -108,7 +108,7 @@ const salmanKhan = {
 
 ### **AI & Development Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,photoshop,blender" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Tools" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
   <img src="https://img.shields.io/badge/Claude-FF6B35?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude AI" />
 </p>
@@ -122,16 +122,16 @@ const salmanKhan = {
 ## <div align="center">📊 **GitHub Analytics**</div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=salman-khaan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salman-khaan&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=salmank56&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmank56&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=salman-khaan&theme=tokyonight&hide_border=true&include_all_commits=true&line_height=27" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=salmank56&theme=tokyonight&hide_border=true&include_all_commits=true&line_height=27" alt="GitHub Streak Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=salman-khaan&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=salmank56&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
 <div align="center">
@@ -160,10 +160,10 @@ const salmanKhan = {
 
 <div align="center">
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=salman-khaan&repo=ai-data-platform&theme=tokyonight)](https://github.com/salman-khaan/ai-data-platform)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=salman-khaan&repo=customer-support-ai&theme=tokyonight)](https://github.com/salman-khaan/customer-support-ai)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=salman-khaan&repo=learning-management-system&theme=tokyonight)](https://github.com/salman-khaan/learning-management-system)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=salman-khaan&repo=portfolio-website&theme=tokyonight)](https://github.com/salman-khaan/portfolio-website)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=salmank56&repo=ai-data-platform&theme=tokyonight)](https://github.com/salmank56/ai-data-platform)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=salmank56&repo=customer-support-ai&theme=tokyonight)](https://github.com/salmank56/customer-support-ai)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=salmank56&repo=learning-management-system&theme=tokyonight)](https://github.com/salmank56/learning-management-system)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=salmank56&repo=portfolio-website&theme=tokyonight)](https://github.com/salmank56/portfolio-website)
 
 </div>
 
@@ -208,7 +208,7 @@ mindmap
   <a href="mailto:ksalman.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://salman-khaan.netlify.app" target="_blank">
+  <a href="https://salmank56.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://linkedin.com/in/salman-khan-dev" target="_blank">
@@ -220,7 +220,7 @@ mindmap
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=salman-khaan&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=salmank56&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
 </div>
 
 <div align="center">
@@ -228,7 +228,7 @@ mindmap
 </div>
 
 <div align="center">
-  <h3>⭐ From <a href="https://github.com/salman-khaan">Salman Khan</a> with ❤️</h3>
+  <h3>⭐ From <a href="https://github.com/salmank56">Salman Khan</a> with ❤️</h3>
 </div>
 
 <div align="center">
